@@ -54,7 +54,7 @@ Tools ini dirancang untuk **testing keamanan jaringan WiFi** dan **penetration t
 ## clone repository
 git clone https://github.com/daffazxxs/DeautherX.git
 
-cd DeauthMaster
+cd DeautherX
 
 ## Jalankan Tools ini
 # Beri izin execute
