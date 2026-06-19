@@ -51,6 +51,19 @@ Tools ini dirancang untuk **testing keamanan jaringan WiFi** dan **penetration t
 
 ### 1. Install Dependencies
 
+## clone repository
+git clone https://github.com/daffazxxs/DeauthMaster.git
+cd DeauthMaster
+
+## Jalankan Tools ini
+# Beri izin execute
+chmod +x deauth_master.py
+
+# Jalankan (WAJIB ROOT)
+sudo python3 deauth_master.py
+
+
+
 ```bash
 # Install tools yang dibutuhkan (jika belum ada)
 sudo apt update
