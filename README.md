@@ -52,7 +52,7 @@ Tools ini dirancang untuk **testing keamanan jaringan WiFi** dan **penetration t
 ### 1. Install Dependencies
 
 ## clone repository
-git clone https://github.com/daffazxxs/DeauthMaster.git
+git clone https://github.com/daffazxxs/DeautherX.git
 
 cd DeauthMaster
 
